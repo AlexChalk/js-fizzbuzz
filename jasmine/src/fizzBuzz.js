@@ -1,3 +1,5 @@
-function fizzBuzz(number) {
-  return number
+function FizzBuzz() {
+  this.play = function(number) {
+  return number;
+}
 }

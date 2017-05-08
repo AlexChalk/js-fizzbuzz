@@ -1,8 +1,13 @@
 /* global describe, it, expect */
-describe('Fizzbuzz', function () {
-  var fizzBuzz = require('../src/fizzBuzz');
+describe('FizzBuzz', function () {
+  var fizzBuzz;
+
+  beforeEach(function() {
+    fizzBuzz = new FizzBuzz();
+  });
+
 
   it('Returns 1 when passed 1', function () {
-    expect(fizzBuzz(1)).toEqual(1)
+    expect(fizzBuzz.play(1)).toEqual(1)
   })
 })
