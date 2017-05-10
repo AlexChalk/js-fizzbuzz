@@ -14,7 +14,7 @@ Run tests by opening `SpecRunner.html` in your web browser—this also loads the
 < FizzBuzz {play: function}
 > fizzBuzz.play(5);
 < "buzz"
-> for (var i = 10; i < 20; i++ ) { 
+> for (var i = 10; i < 16; i++ ) { 
     console.log(fizzBuzz.play(i)); 
   }
   buzz
