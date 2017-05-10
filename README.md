@@ -4,7 +4,7 @@ An implementation of fizzbuzz in Javascript.
 
 ## Installation
 
-1. Clone the repository: `git clone git@github.com:adc17/javascript-airport-challenge.git`
+Clone the repository: `git clone git@github.com:adc17/javascript-airport-challenge.git`
 
 ## Usage
 
