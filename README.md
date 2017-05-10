@@ -8,7 +8,7 @@ Clone the repository: `git clone git@github.com:adc17/javascript-airport-challen
 
 ## Usage
 
-Run tests by opening `SpecRunner.html` in your web browser—this also loads the code into your browser's console. Then interact with the project using the console; for an example see the following:
+Run tests by opening `SpecRunner.html` in your web browser—this also loads the code into your browser's console. Then interact with the project using the console, as follows:
 ```
 > fizzBuzz = new FizzBuzz
 < FizzBuzz {play: function}
